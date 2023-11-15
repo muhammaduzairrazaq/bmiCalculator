@@ -61,10 +61,11 @@ In this project I have created a BMI calculator.
 - The Live Demo link will be available soon!
 
 ## 🖼️ Running App Pictures <a name="pictures"></a>
-- ![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/7d7991c8-5210-4d8f-8f26-27fdeed4438a)
-- ![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/51980da6-86a1-46e0-a4c5-1384140fbac1)
-- ![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/a8d9cb55-4f6f-483c-af91-0531261c6567)
-- ![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/35f2a2cf-1c12-4134-976c-0d43d44124aa)
+
+-![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/f1d1d8be-275e-4c07-98b6-3465396ca476)
+-![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/84d21a31-2e0b-4d56-8271-0627afa1027c)
+-![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/ff869fbb-cac5-4cb9-bf59-799b56f5c5e4)
+-![image](https://github.com/muhammaduzairrazaq/bmiCalculator/assets/138608690/a8959c91-ecdd-4a3e-9152-6334dad6dac6)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
